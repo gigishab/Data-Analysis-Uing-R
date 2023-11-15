@@ -1,6 +1,6 @@
 # Data-Analysis-Uing-R
 
-Hollywood Data Insights with Power BI
+Hollywood Data Insights with Power BI & Uing-R
 Overview
 Welcome to the Hollywood Data Insights project! This repository contains the Power BI analysis for Hollywood's most profitable stories. The analysis focuses on providing insights into various aspects of the film industry, as outlined by the client's requirements.
 
@@ -30,8 +30,7 @@ Present findings through Power BI to highlight the financial performance of genr
 
 <img width="1107" alt="Screenshot 2023-11-09 at 11 45 50" src="https://github.com/gigishab/Data-Analysis-Uing-R/assets/97798293/9c440202-4990-4a26-b8f3-975f5b00446a">
 
-link - https://app.powerbi.com/groups/me/reports/8aeb6d42-9891-44e5-b376-75881bde7836/ReportSectionb4ffcd31a9de9dc41075?experience=power-bi
 
-![image](https://github.com/gigishab/Data-Analysis-Uing-R/assets/97798293/9b960c1a-808f-46f1-ab65-ad833534f383)
+link - https://app.powerbi.com/groups/me/reports/8aeb6d42-9891-44e5-b376-75881bde7836/ReportSectionb4ffcd31a9de9dc41075?experience=power-bi![image](https://github.com/gigishab/Data-Analysis-Uing-R/assets/97798293/9b960c1a-808f-46f1-ab65-ad833534f383)
 
  
